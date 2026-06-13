@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El beso del adiós
+
+This log tracks the cryptographic history and versioning for the song **El beso del adiós** (el-beso-del-adios).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:30:47.145311 | `v1` | `36454215957477bfb9bdb1bf8928d4ae49e94d10b097a589a2c8dc1fa6141372` | `0d0f469dcc2c6a9f5be7c27a4f725e46ed4754a4de6690650bebd402a507d854` | `2026-06-13_el-beso-del-adios-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
