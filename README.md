@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-beso-del-adios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El beso del adiós](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-beso-del-adios/) |
+| **Get License** | [Request Licensing for El beso del adiós](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-beso-del-adios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Acércate un poco, apaga la luz
+> Nadie me conoce en la noche como tú
+> Dame el beso del adiós, esto es natural
+> Tú y yo tenemos un secreto criminal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
